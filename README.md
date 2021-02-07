@@ -8,7 +8,7 @@ so way to take prevention for these actions. Also, this method observes the work
 ## Technologies 
 * HTML 5 
 * CSS 3 
-* JQuery 3.4.0 
+* Javascript 
 
 ## Demo (Front Side) 
 ![1](https://user-images.githubusercontent.com/76128318/106891845-4cba4680-66fc-11eb-9993-2aba43f23d89.png)    
